@@ -27,12 +27,12 @@ hr {
 }
 /*#EF2F88;*/
 #score {
-    background-color: #FFF9F9;
-    color: #6A5495;
+    background-color: #b537d1;
+    color: white;
     padding: 15px;
     position: absolute;
     left: 500px;
-    box-shadow: 5px 5px 2px 0px #FFF9F9;
+    box-shadow: 5px 5px 2px 0px #781C68;
     border-radius: 3px;
 }
 
@@ -42,7 +42,7 @@ hr {
     margin: 65px auto 10px;
     background: linear-gradient(#FB7AFC,#EF2F88);
     color: white;
-    font-size: 20px;
+    font-size: 24px;
     text-align: center;
     padding: 10px;
     line-height: 45px;
@@ -56,7 +56,7 @@ hr {
     margin: 20px auto 40px;
     background: linear-gradient(#FB7AFC,#EF2F88);
     color: white;
-    font-size: 20px;
+    font-size: 24px;
     text-align: center;
     padding: 10px;
     line-height: 45px;
@@ -92,10 +92,11 @@ hr {
 }
 
 #start-reset {
-    width: 80px;
+    width: 120px;
     height: 40px;
-    background: linear-gradient(#0CECDD,#2f40df);
-    box-shadow: 5px 5px 5px 0px #150366;
+    font-size: 22px;
+    background: linear-gradient(#b8b2b6,#0cb971);
+    box-shadow: 5px 5px 5px 0px #781C68;
     border-radius: 5px;
     color: white;
     text-align: center;
