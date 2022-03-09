@@ -1,11 +1,11 @@
 html {
     height: 100%;
-    background: radial-gradient(circle, #FDEBF7,#FBCAFF);
+    background: radial-gradient(circle, #FDEBF7,#ce4fda);
 }
 h1 {
     text-align: center;
     /*color: #6A5495;*/
-    color: #2f40df;
+    color: #3d0442;
     padding-top: 20px;
 }
 hr {
@@ -16,7 +16,7 @@ hr {
 #main-container {
     width: 550px;
     height: 450px;
-    background: linear-gradient(#F4BEEE,#D47AE8);
+    background: linear-gradient(#F4BEEE,#b537d1);
     margin: 80px auto;
     padding: 20px;
     border-radius: 20px;
