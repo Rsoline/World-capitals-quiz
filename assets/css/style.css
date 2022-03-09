@@ -42,37 +42,37 @@ hr {
     margin: 65px auto 10px;
     background: linear-gradient(#FB7AFC,#EF2F88);
     color: white;
-    font-size: 24px;
+    font-size: 25px;
     text-align: center;
     padding: 10px;
     line-height: 45px;
-    border-radius: 20px;
+    border-radius: 5px;
     box-shadow: 10px 10px 5px 0px #781C68;
 }
 
 #instruction {
     width: 550px;
-    height: 50px;
+    height: 30px;
     margin: 20px auto 40px;
     background: linear-gradient(#FB7AFC,#EF2F88);
     color: white;
-    font-size: 24px;
+    font-size: 23px;
     text-align: center;
     padding: 10px;
-    line-height: 45px;
-    border-radius: 20px;
+    line-height: 35px;
+    border-radius: 5px;
     box-shadow: 10px 10px 5px 0px #781C68;
 }
 
 #choices {
     width: 550px;
-    height: 50px;
+    height: 65px;
     margin: 20px auto;
 }
 
 .box {
     width: 105px;
-    height: 40px;
+    height: 60px;
     color: white;
     font-size: 20px;
     text-align: center;
@@ -80,7 +80,7 @@ hr {
     background: linear-gradient(#FB7AFC,#EF2F88);
     box-shadow: 5px 5px 5px 0px #781C68;
     border-radius: 5px;
-    border: 1px solid #781C68;
+    border: 2px solid #781C68;
     float: left;
     margin-right: 20px;
     margin-left: 10px;
