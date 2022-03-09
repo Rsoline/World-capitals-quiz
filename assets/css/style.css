@@ -1,0 +1,38 @@
+html {
+    height: 100%;
+    background: radial-gradient(circle, #FDEBF7,#FBCAFF);
+}
+h1 {
+    text-align: center;
+    color: #6A5495;
+    padding-top: 20px;
+}
+hr {
+    width: 40%;
+    color: #6A5495;
+}
+#main-container {
+    width: 550px;
+    height: 450px;
+    background: #B762C1;
+    margin: 80px auto;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px 0px #781C68;
+    -moz-box-shadow: 10px 10px 5px 0px #781C68;
+    -webkit-box-shadow: 10px 10px 5px 0px #781C68;
+    position: relative;
+}
+/*#EF2F88;*/
+#score {
+    background-color: #FFF9F9;
+    color: #6A5495;
+    padding: 15px;
+    position: absolute;
+    left: 500px;
+    box-shadow: 5px 5px 2px 0px #FFF9F9;
+    border-radius: 3px;
+}
+
+
+
