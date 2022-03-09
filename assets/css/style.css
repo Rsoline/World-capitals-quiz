@@ -34,5 +34,31 @@ hr {
     border-radius: 3px;
 }
 
+#question {
+    width: 450px;
+    height: 50px;
+    margin: 65px auto 10px;
+    background: linear-gradient(#FB7AFC,#EF2F88);
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+    line-height: 45px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px 0px #781C68;
+}
 
+#instruction {
+    width: 450px;
+    height: 50px;
+    margin: 20px auto 10px;
+    background: linear-gradient(#FB7AFC,#EF2F88);
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+    line-height: 45px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px 0px #781C68;
+}
 
