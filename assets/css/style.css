@@ -25,6 +25,10 @@ hr {
     -webkit-box-shadow: 10px 10px 5px 0px #781C68;
 }
 
+.game-section {
+    display: none;
+}
+
 #score {
     width: 40px;
     height: 30px;
