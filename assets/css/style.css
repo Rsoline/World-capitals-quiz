@@ -23,15 +23,14 @@ hr {
     box-shadow: 10px 10px 5px 0px #781C68;
     -moz-box-shadow: 10px 10px 5px 0px #781C68;
     -webkit-box-shadow: 10px 10px 5px 0px #781C68;
-    position: relative;
 }
-/*#EF2F88;*/
+
 #score {
+    width: 40px;
+    height: 30px;
     background-color: #b537d1;
     color: white;
     padding: 15px;
-    position: absolute;
-    left: 500px;
     box-shadow: 5px 5px 2px 0px #781C68;
     border-radius: 3px;
 }
@@ -39,7 +38,7 @@ hr {
 #question {
     width: 550px;
     height: 50px;
-    margin: 65px auto 10px;
+    margin: 2vh;
     background: linear-gradient(#FB7AFC,#EF2F88);
     color: white;
     font-size: 25px;
@@ -53,7 +52,7 @@ hr {
 #instruction {
     width: 550px;
     height: 30px;
-    margin: 20px auto 40px;
+    margin: 10px auto 40px;
     background: linear-gradient(#FB7AFC,#EF2F88);
     color: white;
     font-size: 23px;
@@ -102,5 +101,5 @@ hr {
     text-align: center;
     line-height: 40px;
     padding: 10px;
-    margin: 30px auto;
+    margin: 10px auto;
 }
