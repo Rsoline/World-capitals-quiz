@@ -1,3 +1,4 @@
+/*
 let questionIndex = 0;
 let choices = "";
 let answer = true;
@@ -68,3 +69,4 @@ function showQuestion(question) {
 
 // attach event listeners
 startGameBtn.addEventListener("click", startGame, false);
+*/
